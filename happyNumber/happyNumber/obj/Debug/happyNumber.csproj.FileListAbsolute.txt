@@ -1,0 +1,9 @@
+c:\users\kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\bin\Debug\happyNumber.exe.config
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\bin\Debug\happyNumber.exe
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\bin\Debug\happyNumber.pdb
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\obj\Debug\happyNumber.exe
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\obj\Debug\happyNumber.pdb
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\obj\Debug\happyNumber.Properties.Resources.resources
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\obj\Debug\happyNumber.csproj.GenerateResource.Cache
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\bin\Debug\Resources\smallPractice.txt
+C:\Users\Kyle\documents\visual studio 2012\Projects\happyNumber\happyNumber\obj\Debug\happyNumber.csprojResolveAssemblyReference.cache

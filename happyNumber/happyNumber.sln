@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "happyNumber", "happyNumber\happyNumber.csproj", "{2558A269-6CCB-4F9A-9BFF-B2D0F2474EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2558A269-6CCB-4F9A-9BFF-B2D0F2474EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2558A269-6CCB-4F9A-9BFF-B2D0F2474EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2558A269-6CCB-4F9A-9BFF-B2D0F2474EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2558A269-6CCB-4F9A-9BFF-B2D0F2474EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
