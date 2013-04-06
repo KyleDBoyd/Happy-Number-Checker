@@ -7,8 +7,10 @@ Rather then brute force each case it would be better to start counting at the an
 
 Eg.
 
-Case 1: 4 8 -> x is answer
+Case 1: 4 8 -> x is answer 
+
 Case2: 4 6 8 10 -> y is answer
+
 Case3: 3 4 5 6 7 8 10
 
 Case 2 would start running the algorithm at x and Case 3 would start running the algorithm at y. This would avoid running over several numbers that could not be the answer.
