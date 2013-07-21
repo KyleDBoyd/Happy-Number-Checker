@@ -7,9 +7,9 @@ Rather then brute force each case it would be better to start counting at the an
 
 Eg.
 
-Case 1: 4 8 -> x is answer 
+Case 1: 4 8 -> x  
 
-Case2: 4 6 8 10 -> y is answer
+Case2: 4 6 8 10 -> y
 
 Case3: 3 4 5 6 7 8 10
 
